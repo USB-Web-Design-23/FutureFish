@@ -1,0 +1,38 @@
+.header{
+	border: 10px solid darkblue;
+	text-align: center;
+	background: white;
+}
+.head{
+
+}
+body{
+	
+}
+div{
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+
+}
+p{
+	color: white;
+	font-family: Comic Sans MS;
+	font-size: 18px;
+}
+ol{
+	color: white;
+}
+table{
+	color: white;
+	
+}
+img{
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+iframe{
+	text-align: center;
+}
