@@ -1,0 +1,292 @@
+@keyframes zoomOut {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.zoom-out-element {
+  animation: zoomOut 3s ease-in-out;
+}/*animation for the "final project"*/
+/*first prject*/
+/*parent div to give a boarder for the next baby div*/
+#parent1{
+	display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+/* explation of project*/
+#myButton1{
+	background-color: black;
+	color: whitesmoke;
+	width: 600px;
+	height: 279px;
+	
+
+}
+/* shuffle image between code and webpage*/
+#myButtonani{
+	width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle1 10s infinite;
+  text-align: right;
+
+
+}
+@keyframes shuffle1 {
+  0% {
+    background-image: url('1pp.png');
+  }
+  50% {
+    background-image: url('1pc.png');
+  }
+  100% {
+    background-image: url('1pp.png');
+  }
+}
+/*second prject*/
+#parent2{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton2{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani2{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle2 10s infinite;
+
+
+}
+@keyframes shuffle2 {
+  0% {
+    background-image: url('2pp.png');
+  }
+  50% {
+    background-image: url('2pc.png');
+  }
+  100% {
+    background-image: url('2pp.png');
+  }
+}
+/*third prject*/
+#parent3{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton3{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani3{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle3 10s infinite;
+
+
+
+}
+@keyframes shuffle3 {
+  0% {
+    background-image: url('3pp.png');
+  }
+  50% {
+    background-image: url('3pc.png');
+  }
+  100% {
+    background-image: url('3pp.png');
+  }
+}
+/*fouth prject*/
+#parent4{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton4{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani4{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle4 10s infinite;
+
+
+}
+@keyframes shuffle4 {
+  0% {
+    background-image: url('4pp.png');
+  }
+  50% {
+    background-image: url('4pc.png');
+  }
+  100% {
+    background-image: url('4pp.png');
+  }
+}
+
+/*fifth prject*/
+#parent5{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton5{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani5{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle5 10s infinite;
+
+
+}
+@keyframes shuffle5 {
+  0% {
+    background-image: url('5pp.png');
+  }
+  50% {
+    background-image: url('5pc.png');
+  }
+  100% {
+    background-image: url('5pp.png');
+  }
+}
+
+/*Sixth prject*/
+#parent6{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton6{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani6{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle6 10s infinite;
+
+
+}
+@keyframes shuffle6 {
+  0% {
+    background-image: url('6pp.png');
+  }
+  50% {
+    background-image: url('6pc.png');
+  }
+  100% {
+    background-image: url('6pp.png');
+  }
+}
+
+/*Seventh prject*/
+#parent7{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton7{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani7{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle7 10s infinite;
+
+
+}
+@keyframes shuffle7 {
+  0% {
+    background-image: url('7pp.png');
+  }
+  50% {
+    background-image: url('7pc.png');
+  }
+  100% {
+    background-image: url('7pp.png');
+  }
+}
+/*eighth prject*/
+#parent8{
+  display: flex;
+  border: 10px solid black;
+  padding: 10px; 
+}
+
+#myButton8{
+  background-color: black;
+  color: whitesmoke;
+  width: 600px;
+  height: 279px;
+  
+
+}
+#myButtonani8{
+  width: 600px; /* Adjust as needed */
+  height: 279px; /* Adjust as needed */
+  animation: shuffle8 10s infinite;
+
+
+}
+@keyframes shuffle8 {
+  0% {
+    background-image: url('snpp.png');
+  }
+  50% {
+    background-image: url('snpc.png');
+  }
+  100% {
+    background-image: url('snpp.png');
+  }
+}
+
+
+
+
+
+
+
